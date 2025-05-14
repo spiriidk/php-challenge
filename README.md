@@ -22,9 +22,9 @@ The application will handle **millions of requests per day**, so your solution s
 
 ## 🔧 Setup Instructions
 
-1. **Fork the repository**
+1. **Create a new repository**
 
-   Fork the repository and navigate to the project folder
+   Click the "Use this template" button at the top of the page to create a new repository with this code.
 
 
 2. **Install dependencies**
